@@ -1,0 +1,10 @@
+Dragon's Roost Changelog (Started 05/28/2018)
+---------------------------------
+ 05/28/2018
+ Completed 1.5 Epics:
+   Warrior
+   Wizard
+   Bard
+   Beastlord
+   Berserker
+   Cleric
